@@ -1,6 +1,7 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads-a-darwin.hulu.com
 0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 a.huluad.com
 0.0.0.0 hulu.112.2o7.net
 0.0.0.0 huludev.112.2o7.net
@@ -8,6 +9,7 @@
 127.0.0.1 a.huluad.com
 127.0.0.1 ads-a-darwin.hulu.com
 127.0.0.1 ads-v-darwin.hulu.com
+127.0.0.1 ads-e-darwin.hulustream.com
 127.0.0.1 ads.hulu.com
 127.0.0.1 hulu.112.2o7.net
 127.0.0.1 huludev.112.2o7.net
