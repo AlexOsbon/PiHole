@@ -8,3 +8,12 @@
 127.0.0.1 ads-e-darwin.hulustream.com
 127.0.0.1 ads.hulu.com
 127.0.0.1 urlcheck.hulu.com
+hulu.sc.omtrdc.net
+hulu.hb.omtrdc.net
+sb.scorecardresearch.com
+tags.tiqcdn.com
+ipv4.cws.conviva.com
+dpm.demdex.net
+33490a8068184d69ac8e8a04a88c384b7ee3a9f7.cws.conviva.com
+ipv6.cws.conviva.com
+cdn-gl.imrworldwide.com
