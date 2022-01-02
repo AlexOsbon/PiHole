@@ -1,21 +1,30 @@
-ads.hulu.com
-ads-a-darwin.hulu.com
-ads-v-darwin.hulu.com
-a.huluad.com
-hulu.112.2o7.net
-huludev.112.2o7.net
-ads.hulu.com.edgesuite.net
+/etc/pihole/list.0.raw.githubusercontent.com.domains
+0.0.0.0 ads.hulu.com
+0.0.0.0 ads-a-darwin.hulu.com
+0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 a.huluad.com
+0.0.0.0 hulu.112.2o7.net
+0.0.0.0 huludev.112.2o7.net
+0.0.0.0 ads.hulu.com.edgesuite.net
+/etc/pihole/list.1.adblock.gjtech.net.domains
+/etc/pihole/list.2.mirror1.malwaredomains.com.domains
 blackhulu.com
-a.huluad.com
-ads-a-darwin.hulu.com
-ads-v-darwin.hulu.com
-ads.hulu.com
-hulu.112.2o7.net
-huludev.112.2o7.net
-l.a.hulu.com
-hulu.112.2o7.net
-t-ak.hulu.com
-t2.hulu.com
-t2.huluim.com
-tw.i.hulu.com
-urlcheck.hulu.com
+/etc/pihole/list.3.sysctl.org.domains
+127.0.0.1 a.huluad.com
+127.0.0.1 ads-a-darwin.hulu.com
+127.0.0.1 ads-v-darwin.hulu.com
+127.0.0.1 ads.hulu.com
+127.0.0.1 hulu.112.2o7.net
+127.0.0.1 huludev.112.2o7.net
+127.0.0.1 ll.a.hulu.com
+/etc/pihole/list.4.zeustracker.abuse.ch.domains
+/etc/pihole/list.5.s3.amazonaws.com.domains
+/etc/pihole/list.6.s3.amazonaws.com.domains
+/etc/pihole/list.7.hosts-file.net.domains
+127.0.0.1 hulu.112.2o7.net
+127.0.0.1 t-ak.hulu.com
+127.0.0.1 t2.hulu.com
+127.0.0.1 t2.huluim.com
+127.0.0.1 tw.i.hulu.com
+127.0.0.1 urlcheck.hulu.com
+/etc/pihole/list.8.raw.githubusercontent.com.domains
