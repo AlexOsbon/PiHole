@@ -5,3 +5,16 @@
 0.0.0.0 hulu.112.2o7.net
 0.0.0.0 huludev.112.2o7.net
 0.0.0.0 ads.hulu.com.edgesuite.net
+127.0.0.1 a.huluad.com
+127.0.0.1 ads-a-darwin.hulu.com
+127.0.0.1 ads-v-darwin.hulu.com
+127.0.0.1 ads.hulu.com
+127.0.0.1 hulu.112.2o7.net
+127.0.0.1 huludev.112.2o7.net
+127.0.0.1 ll.a.hulu.com
+127.0.0.1 hulu.112.2o7.net
+127.0.0.1 t-ak.hulu.com
+127.0.0.1 t2.hulu.com
+127.0.0.1 t2.huluim.com
+127.0.0.1 tw.i.hulu.com
+127.0.0.1 urlcheck.hulu.com
