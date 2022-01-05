@@ -62,6 +62,12 @@ lightningcast.net
   Doubleclick.net
   Luckyorange.com
   analytics-sg.tiktok.com
+  googleads.g.doubleclick.net
+  static.doubleclick.net
+  ad.gt
+  adsafeprotected.com
+  amazon-adsystem.com
+  quantserve.com
 
     #Huawei
     metrics1.data.hicloud.com
