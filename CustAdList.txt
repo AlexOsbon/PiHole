@@ -21,7 +21,6 @@ cdn-gl.imrworldwide.com
 http-a-darwin.hulustream.com
 
 #ListsFromOther
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
