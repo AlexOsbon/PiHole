@@ -48,9 +48,19 @@ lightningcast.net
 
   #newerAdditions
   stagepopkek.com
+  127.0.0.1 7c0616849b.com
+  0.0.0.0 7c0616849b.com
   7c0616849b.com
+  127.0.0.1 7c0616849b.com
+  0.0.0.0 7c0616849b.com
   berlipurplin.com
+  127.0.0.1 berlipurplin.com
+  0.0.0.0 berlipurplin.com
   exwotics6heomrthaoi4r.com
+  127.0.0.1 exwotics6heomrthaoi4r.com
+  0.0.0.0 exwotics6heomrthaoi4r.com
+  127.0.0.1 centeredpleasedfeudal.com
+  0.0.0.0 centeredpleasedfeudal.com
   centeredpleasedfeudal.com
   madriyelowd.com
   s4elk8ir1exrkc.com
@@ -59,6 +69,8 @@ lightningcast.net
   steadfastsystem.com
   sb.scorecardresearch.com
   cdn.taboola.com
+  127.0.0.1 Doubleclick.net
+  0.0.0.0 Doubleclick.net
   Doubleclick.net
   Luckyorange.com
   analytics-sg.tiktok.com
@@ -68,7 +80,15 @@ lightningcast.net
   adsafeprotected.com
   amazon-adsystem.com
   quantserve.com
-
+  a.pub.network
+  c.amazon-adsystem.com
+  o197999.ingest.sentry.io
+  mail-ads.google.com
+  hb.vntsm.com
+  googleads.g.doubleclick.net
+  deploy.mopinion.com
+  stagepopkek.com
+  
     #CrunchyRoll
     1771968717.rsc.cdn77.org
     23-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-iad1.dlvr1.net
