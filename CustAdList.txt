@@ -62,13 +62,29 @@ lightningcast.net
   127.0.0.1 centeredpleasedfeudal.com
   0.0.0.0 centeredpleasedfeudal.com
   centeredpleasedfeudal.com
+  127.0.0.1 madriyelowd.com
+  0.0.0.0 madriyelowd.com
   madriyelowd.com
+  127.0.0.1 s4elk8ir1exrkc.com
+  0.0.0.0 s4elk8ir1exrkc.com
   s4elk8ir1exrkc.com
+  127.0.0.1 stagepopkek.com
+  0.0.0.0 stagepopkek.com
   stagepopkek.com
+  127.0.0.1 cdn.bannersnack.com
+  0.0.0.0 cdn.bannersnack.com
   cdn.bannersnack.com
+  127.0.0.1 steadfastsystem.com
+  0.0.0.0 steadfastsystem.com
   steadfastsystem.com
+  127.0.0.1 sb.scorecardresearch.com
+  0.0.0.0 sb.scorecardresearch.com
   sb.scorecardresearch.com
+  127.0.0.1 cdn.taboola.com
+  0.0.0.0 cdn.taboola.com
   cdn.taboola.com
+  127.0.0.1 Luckyorange.com
+  0.0.0.0 Luckyorange.com
   127.0.0.1 Doubleclick.net
   0.0.0.0 Doubleclick.net
   Doubleclick.net
@@ -88,7 +104,8 @@ lightningcast.net
   googleads.g.doubleclick.net
   deploy.mopinion.com
   stagepopkek.com
-  
+  cdn.iubenda.com
+
     #CrunchyRoll
     1771968717.rsc.cdn77.org
     23-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-iad1.dlvr1.net
