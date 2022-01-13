@@ -90,6 +90,11 @@ lightningcast.net
     ytstatic.l.google.com
     api.segment.io
     segment.io
+    cdn.segment.com
+    fwmrm.net
+    api.segment.io
+    js-agent.newrelic.com
+    c.evidon.com
 
     #Huawei
     metrics1.data.hicloud.com
