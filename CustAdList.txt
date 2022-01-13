@@ -83,7 +83,8 @@ lightningcast.net
     fy.v.vrv.co
     pcva3.manifest.auditude.com
     scone-pa.clients6.google.com
-    static.vrv.co
+    127.0.0.1 static.vrv.co
+    0.0.0.0 static.vrv.co
     tile-service.weather.microsoft.com
     vrv-eec.etp-prod.com
     ytstatic.l.google.com
