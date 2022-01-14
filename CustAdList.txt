@@ -96,6 +96,7 @@
   127.0.0.1 analytics-sg.tiktok.com
   127.0.0.1 googleads.g.doubleclick.net
   127.0.0.1 static.doubleclick.net
+  127.0.0.1 mediavisor.doubleclick.net
   127.0.0.1 ad.gt
   127.0.0.1 adsafeprotected.com
   127.0.0.1 amazon-adsystem.com
@@ -108,7 +109,23 @@
   127.0.0.1 c.amazon-adsystem.com
   127.0.0.1 www.datadoghq-browser-agent.com
   127.0.0.1 s.go-mpulse.net
+  127.0.0.1 analyticsengine.s3.amazonaws.com
+  127.0.0.1 affiliationjs.s3.amazonaws.com 
+  127.0.0.1 advertising-api-eu.amazon.com
+  127.0.0.1 cdn.luckyorange.com
+  127.0.0.1 w1.luckyorange.com
+  127.0.0.1 freshmarketer.com
+  127.0.0.1 ads.facebook.com
+  127.0.0.1 advertising.twitter.com
   
+  0.0.0.0 advertising.twitter.com
+  0.0.0.0 ads.facebook.com
+  0.0.0.0 freshmarketer.com
+  0.0.0.0 w1.luckyorange.com
+  0.0.0.0 cdn.luckyorange.com
+  0.0.0.0 advertising-api-eu.amazon.com
+  0.0.0.0 affiliationjs.s3.amazonaws.com 
+  0.0.0.0 analyticsengine.s3.amazonaws.com
   0.0.0.0 7c0616849b.com
   0.0.0.0 berlipurplin.com
   0.0.0.0 exwotics6heomrthaoi4r.com
@@ -124,6 +141,7 @@
   0.0.0.0 analytics-sg.tiktok.com
   0.0.0.0 googleads.g.doubleclick.net
   0.0.0.0 static.doubleclick.net
+  0.0.0.0 mediavisor.doubleclick.net
   0.0.0.0 ad.gt
   0.0.0.0 adsafeprotected.com
   0.0.0.0 amazon-adsystem.com
@@ -138,6 +156,8 @@
   0.0.0.0 cdn.iubenda.com
   0.0.0.0 www.datadoghq-browser-agent.com
   0.0.0.0 s.go-mpulse.net
+  
+  7c0616849b.com
 
 
     #CrunchyRoll
