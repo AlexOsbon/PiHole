@@ -150,7 +150,35 @@
   127.0.0.1 jill.fc.yahoo.com
   127.0.0.1 match.sharethrough.com
   127.0.0.1 www.bizographics.com
+  127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
+  127.0.0.1 www.google-analytics.com
+  127.0.0.1 adservice.google.com
+  127.0.0.1 adservice.google.ru
+  127.0.0.1 pagead2.googlesyndication.com
+  127.0.0.1 static.hotjar.com
+  127.0.0.1 browser.sentry-cdn.com
+  127.0.0.1 p.cpx.to
+  127.0.0.1 tag.crsspxl.com
+  127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
+  127.0.0.1 uk-script.dotmetrics.net
+  127.0.0.1 unpkg.com
+  127.0.0.1 adblockanalytics.com
+  127.0.0.1 widgets.outbrain.com
   
+  0.0.0.0p.cpx.to
+  0.0.0.0 tag.crsspxl.com
+  0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+  0.0.0.0 uk-script.dotmetrics.net
+  0.0.0.0 unpkg.com
+  0.0.0.0 adblockanalytics.com
+  0.0.0.0 widgets.outbrain.com
+  0.0.0.0 static.hotjar.com
+  0.0.0.0 browser.sentry-cdn.com
+  0.0.0.0 pagead2.googlesyndication.com
+  0.0.0.0 adservice.google.ru
+  0.0.0.0 adservice.google.com
+  0.0.0.0 www.google-analytics.com
+  0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
   0.0.0.0 btloader.com
   0.0.0.0 visitor.omnitagjs.com
   0.0.0.0 cm.mgid.com
