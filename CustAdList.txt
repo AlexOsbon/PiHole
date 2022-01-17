@@ -72,7 +72,6 @@
   0.0.0.0 ads-e-darwin.hulustream.com
   0.0.0.0 ads.hulu.com.edgesuite.net
   0.0.0.0 hulu.sc.omtrdc.net
-  0.0.0.0 hulu.sc.omtrdc.net
   0.0.0.0 hulu.hb.omtrdc.net
   0.0.0.0 tags.tiqcdn.com
   0.0.0.0 ipv4.cws.conviva.com
@@ -81,6 +80,10 @@
   0.0.0.0 ipv6.cws.conviva.com
   0.0.0.0 cdn-gl.imrworldwide.com
   0.0.0.0 http-a-darwin.hulustream.com
+  0.0.0.0 assetshuluimcom-a.akamaihd.net
+  0.0.0.0 ad.doubleclick.net
+  0.0.0.0 www.gstatic.com
+  0.0.0.0 va-edge.sc.omtrdc.net
   
   127.0.0.1 ads-a-darwin.hulu.com
   127.0.0.1 ads-v-darwin.hulu.com
@@ -94,6 +97,12 @@
   127.0.0.1 33490a8068184d69ac8e8a04a88c384b7ee3a9f7.cws.conviva.com
   127.0.0.1 ipv6.cws.conviva.com
   127.0.0.1 http-a-darwin.hulustream.com
+  127.0.0.1 cdn-gl.imrworldwide.com
+  127.0.0.1 hulu.sc.omtrdc.net
+  127.0.0.1 assetshuluimcom-a.akamaihd.net
+  127.0.0.1 ad.doubleclick.net
+  127.0.0.1 www.gstatic.com
+  127.0.0.1 va-edge.sc.omtrdc.net
 
 
   #newerAdditions
