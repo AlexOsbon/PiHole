@@ -82,7 +82,7 @@
   0.0.0.0 http-a-darwin.hulustream.com
   0.0.0.0 assetshuluimcom-a.akamaihd.net
   0.0.0.0 ad.doubleclick.net
-  0.0.0.0 www.gstatic.com
+  #0.0.0.0 www.gstatic.com
   0.0.0.0 va-edge.sc.omtrdc.net
   
   127.0.0.1 ads-a-darwin.hulu.com
@@ -101,7 +101,7 @@
   127.0.0.1 hulu.sc.omtrdc.net
   127.0.0.1 assetshuluimcom-a.akamaihd.net
   127.0.0.1 ad.doubleclick.net
-  127.0.0.1 www.gstatic.com
+  #127.0.0.1 www.gstatic.com
   127.0.0.1 va-edge.sc.omtrdc.net
 
 
@@ -172,6 +172,7 @@
   127.0.0.1 unpkg.com
   127.0.0.1 adblockanalytics.com
   127.0.0.1 widgets.outbrain.com
+  127.0.0.1 www.google-analytics.com
   
   0.0.0.0p.cpx.to
   0.0.0.0 tag.crsspxl.com
@@ -241,7 +242,7 @@
   0.0.0.0 cdn.iubenda.com
   0.0.0.0 www.datadoghq-browser-agent.com
   0.0.0.0 s.go-mpulse.net
-  
+  0.0.0.0 www.google-analytics.com
   7c0616849b.com
 
 
