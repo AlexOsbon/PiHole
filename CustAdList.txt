@@ -160,7 +160,6 @@
   127.0.0.1 match.sharethrough.com
   127.0.0.1 www.bizographics.com
   127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
-  127.0.0.1 www.google-analytics.com
   127.0.0.1 adservice.google.com
   127.0.0.1 adservice.google.ru
   127.0.0.1 pagead2.googlesyndication.com
@@ -186,7 +185,6 @@
   0.0.0.0 pagead2.googlesyndication.com
   0.0.0.0 adservice.google.ru
   0.0.0.0 adservice.google.com
-  0.0.0.0 www.google-analytics.com
   0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
   0.0.0.0 btloader.com
   0.0.0.0 visitor.omnitagjs.com
