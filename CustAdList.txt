@@ -105,7 +105,7 @@
   127.0.0.1 va-edge.sc.omtrdc.net
 
 
-  #newerAdditions
+  #OlderNewerAdditions
   127.0.0.1 7c0616849b.com
   127.0.0.1 berlipurplin.com
   127.0.0.1 exwotics6heomrthaoi4r.com
@@ -174,7 +174,8 @@
   127.0.0.1 widgets.outbrain.com
   127.0.0.1 www.google-analytics.com
   
-  0.0.0.0p.cpx.to
+  0.0.0.0 p.cpx.to
+  0.0.0.0 deploy.mopinion.com
   0.0.0.0 tag.crsspxl.com
   0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
   0.0.0.0 uk-script.dotmetrics.net
@@ -258,3 +259,4 @@
     0.0.0.0 fwmrm.net
     0.0.0.0 js-agent.newrelic.com
     0.0.0.0 c.evidon.com
+  #NewerAdditions
