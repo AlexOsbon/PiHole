@@ -259,5 +259,7 @@
 
   #NewerAdditions
   127.0.0.1 jnynosyqnuoxeod.com
-    
+  127.0.0.1 gefmbrbvkql.com
+  
   0.0.0.0 jnynosyqnuoxeod.com
+  0.0.0.0 gefmbrbvkql.com
