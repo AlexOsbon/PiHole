@@ -175,6 +175,7 @@
   127.0.0.1 www.google-analytics.com
   
   0.0.0.0 p.cpx.to
+  0.0.0.0 static.doubleclick.net
   0.0.0.0 deploy.mopinion.com
   0.0.0.0 tag.crsspxl.com
   0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
