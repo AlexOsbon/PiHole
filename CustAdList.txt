@@ -256,7 +256,7 @@
 127.0.0.1 mage98rquewz.com
 127.0.0.1 stagepopkek.com
 127.0.0.1 ad.com
-127.0.0.1
+127.0.0.1 268stephe5en3king.com
 
 0.0.0.0 static.vrv.co
 0.0.0.0 cdn.segment.com
@@ -270,7 +270,7 @@
 0.0.0.0 mage98rquewz.com
 0.0.0.0 stagepopkek.com
 0.0.0.0 ad.com
-0.0.0.0
+0.0.0.0 268stephe5en3king.com
 
   #NewerAdditions
   127.0.0.1 denetsuk.com
