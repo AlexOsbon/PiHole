@@ -258,6 +258,16 @@
 
 
   #NewerAdditions
+  127.0.0.1 denetsuk.com
+  127.0.0.1 mauchopt.net
+  127.0.0.1 cdn.viglink.com
+  127.0.0.1 ytcsugxsud.com
+  
+  0.0.0.0 denetsuk.com
+  0.0.0.0 mauchopt.net
+  0.0.0.0 cdn.viglink.com
+  0.0.0.0 ytcsugxsud.com
+
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
     127.0.0.1 gefmbrbvkql.com
