@@ -272,6 +272,11 @@
   127.0.0.1 ad.com
   127.0.0.1 268stephe5en3king.com
   127.0.0.1 designatejumped.com
+  127.0.0.1 ws-na.amazon-adsystem.com
+  127.0.0.1 eb2.3lift.com
+  27.0.0.1 ib.3lift.com
+  27.0.0.1 ib.adnxs.com
+  27.0.0.1 www.bizographics.com
   
   0.0.0.0 denetsuk.com
   0.0.0.0 mauchopt.net
@@ -286,6 +291,11 @@
   0.0.0.0 ad.com
   0.0.0.0 268stephe5en3king.com
   0.0.0.0 designatejumped.com
+  0.0.0.0 ws-na.amazon-adsystem.com
+  0.0.0.0 eb2.3lift.com
+  0.0.0.0 ib.3lift.com
+  0.0.0.0 ib.adnxs.com
+  0.0.0.0 www.bizographics.com
   
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
