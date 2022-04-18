@@ -250,7 +250,6 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 c.evidon.com
 
-
 0.0.0.0 static.vrv.co
 0.0.0.0 cdn.segment.com
 0.0.0.0 fwmrm.net
@@ -274,9 +273,21 @@
   127.0.0.1 designatejumped.com
   127.0.0.1 ws-na.amazon-adsystem.com
   127.0.0.1 eb2.3lift.com
-  27.0.0.1 ib.3lift.com
-  27.0.0.1 ib.adnxs.com
-  27.0.0.1 www.bizographics.com
+  127.0.0.1 ib.3lift.com
+  127.0.0.1 ib.adnxs.com
+  127.0.0.1 www.bizographics.com
+  127.0.0.1 supportmetrics.apple.com
+  127.0.0.1 analytics-api.samsunghealthcn.com
+  127.0.0.1 samsung-com.112.2o7.net
+  127.0.0.1 click.oneplus.cn
+  127.0.0.1 logservice.hicloud.com
+  127.0.0.1 logservice1.hicloud.com
+  127.0.0.1 logbak.hicloud.com
+  127.0.0.1 d.reddit.com
+  127.0.0.1 app.getsentry.com
+  127.0.0.1 api.bugsnag.com
+  127.0.0.1 app.bugsnag.com
+  127.0.0.1 affiliationjs.s3.amazonaws.com
   
   0.0.0.0 denetsuk.com
   0.0.0.0 mauchopt.net
@@ -296,6 +307,18 @@
   0.0.0.0 ib.3lift.com
   0.0.0.0 ib.adnxs.com
   0.0.0.0 www.bizographics.com
+  0.0.0.0 supportmetrics.apple.com
+  0.0.0.0 analytics-api.samsunghealthcn.com
+  0.0.0.0 samsung-com.112.2o7.net
+  0.0.0.0 click.oneplus.cn
+  0.0.0.0 logservice.hicloud.com
+  0.0.0.0 logservice1.hicloud.com
+  0.0.0.0 logbak.hicloud.com
+  0.0.0.0 d.reddit.com
+  0.0.0.0 app.getsentry.com
+  0.0.0.0 api.bugsnag.com
+  0.0.0.0 app.bugsnag.com
+  0.0.0.0 affiliationjs.s3.amazonaws.com
   
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
