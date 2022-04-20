@@ -288,6 +288,8 @@
   127.0.0.1 api.bugsnag.com
   127.0.0.1 app.bugsnag.com
   127.0.0.1 affiliationjs.s3.amazonaws.com
+  127.0.0.1 analytics.facebook.com
+  127.0.0.1 widgets.pinterest.com
   
   0.0.0.0 denetsuk.com
   0.0.0.0 mauchopt.net
@@ -319,6 +321,8 @@
   0.0.0.0 api.bugsnag.com
   0.0.0.0 app.bugsnag.com
   0.0.0.0 affiliationjs.s3.amazonaws.com
+  0.0.0.0 analytics.facebook.com
+  0.0.0.0 widgets.pinterest.com
   
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
