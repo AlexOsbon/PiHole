@@ -296,7 +296,6 @@
   127.0.0.1 adservice.google.ru
   127.0.0.1 browser.sentry-cdn.com
   127.0.0.1 pagead2.googlesyndication.com
-  127.0.0.1 cdn.segment.com
   
   0.0.0.0 denetsuk.com
   0.0.0.0 mauchopt.net
@@ -337,7 +336,6 @@
   0.0.0.0 adservice.google.ru
   0.0.0.0 browser.sentry-cdn.com
   0.0.0.0 pagead2.googlesyndication.com
-  0.0.0.0 cdn.segment.com
   
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
