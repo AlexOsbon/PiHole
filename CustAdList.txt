@@ -24,7 +24,6 @@
 0.0.0.0 lightningcast.com
 0.0.0.0 lightningcast.net
 0.0.0.0 p.cpx.to
-0.0.0.0 static.doubleclick.net
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -296,6 +295,8 @@
   127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
   127.0.0.1 adservice.google.ru
   127.0.0.1 browser.sentry-cdn.com
+  127.0.0.1 pagead2.googlesyndication.com
+  127.0.0.1 cdn.segment.com
   
   0.0.0.0 denetsuk.com
   0.0.0.0 mauchopt.net
@@ -335,6 +336,8 @@
   0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
   0.0.0.0 adservice.google.ru
   0.0.0.0 browser.sentry-cdn.com
+  0.0.0.0 pagead2.googlesyndication.com
+  0.0.0.0 cdn.segment.com
   
     #GogoA.
     127.0.0.1 jnynosyqnuoxeod.com
